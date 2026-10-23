@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-  ____  _           ____       _            _             
- |  _ \| |__  _ __ |  _ \  ___| |_ ___  ___| |_ ___  _ __ 
- | |_) | '_ \| '_ \| | | |/ _ \ __/ _ \/ __| __/ _ \| '__|
- |  __/| | | | |_) | |_| |  __/ ||  __/ (__| || (_) | |   
- |_|   |_| |_| .__/|____/ \___|\__\___|\___|\__\___/|_|   
-              |_|                                           
+        _           ____       _            _             
+  _ __ | |__  _ __ |  _ \  ___| |_ ___  ___| |_ ___  _ __ 
+ | '_ \| '_ \| '_ \| | | |/ _ \ __/ _ \/ __| __/ _ \| '__|
+ | |_) | | | | |_) | |_| |  __/ ||  __/ (__| || (_) | |   
+ | .__/|_| |_| .__/|____/ \___|\__\___|\___|\__\___/|_|   
+ |_|          |_|                                           
 ```
 
 **PHP Technology Detection Scanner**
@@ -14,7 +14,7 @@
 ![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Version](https://img.shields.io/badge/Version-1.1.0-red?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS-lightgrey?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=flat-square)
 
 *Detect PHP-powered targets via HTTP headers and response body — single URL or bulk list, with parallel scanning and version extraction.*
 
